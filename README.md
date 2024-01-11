@@ -1,5 +1,6 @@
 # FallDTect  
 Figma Link: https://www.figma.com/file/M11yN2YEk1eK0UNghzDXrX/UI-design-App?type=design&node-id=0%3A1&mode=design&t=4LK7wMJKiffiyzEB-1  
+Presentation Slides: https://www.canva.com/design/DAF5juZSX1k/t8i6LXQhIHRuCeFax2TzZA/edit?utm_content=DAF5juZSX1k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 
 Team Name: Gong Xi Fa Cai  
 Project Name: Fall Detection Project
